@@ -112,5 +112,5 @@ Using Power Query:
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
