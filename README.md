@@ -87,7 +87,8 @@ Using Power Query:
 | **Top Payment Method** | Credit Card (£57,458) |
 | **Top Region** | London (£50,423) |
 | **Best-Selling Product** | PROD336 |
-| **Fastest Carrier** | DHL (148 days total) |
+| **Most Profitable Product** | PROD336 |
+| **Least Average Delivery Days by Carrier** | DHL (3.36 Average Days) |
 
 ### **Key Insights**
 - **London** and **Credit Card** payments drive the majority of sales.  
