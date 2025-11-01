@@ -71,8 +71,6 @@ Using Power Query:
 
 ##  3. Dashboard & Analysis
 
-<img width="1209" height="536" alt="eCommerceDashboard" src="https://github.com/user-attachments/assets/01fdcab7-9247-400d-9539-f1bb244b69a3" />
-
 <img width="1205" height="513" alt="eCommerce2 0" src="https://github.com/user-attachments/assets/ac9548af-4fb4-443d-a88c-2b90c0a61d92" />
 
 
