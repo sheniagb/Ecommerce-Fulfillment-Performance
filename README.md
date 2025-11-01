@@ -90,7 +90,7 @@ Using Power Query:
 
 ### **Key Insights**
 - **London** and **Credit Card** payments drive the majority of sales.  
-- **Royal Mail** and **DPD** handled most deliveries, though **DHL** showed the fastest average delivery time.  
+- **DHL** and **DPD** handled most deliveries, though **DHL** showed the fastest average delivery time.  
 - **Returns and refunds** were minimal (<1%), indicating strong fulfillment accuracy.  
 - Sales peaked in late January and mid-February — possible promotional or marketing periods.  
 
